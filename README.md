@@ -1,3 +1,9 @@
+## 部分修改
+
+Forked From [summertime-wu/make_cnblogs_better](https://github.com/summertime-wu/make_cnblogs_better)。
+
+在原来的基础上修改了代码框的字体等样式。
+
 ## 食用方法
 
 1. 首先你得有个[博客](http://www.cnblogs.com/)
